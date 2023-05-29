@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://ragunath87.github.io/csb-9yxnti/static/css/main.fc5c2c69.css",
+    "main.js": "https://ragunath87.github.io/csb-9yxnti/static/js/main.99ec8c72.js",
+    "index.html": "https://ragunath87.github.io/csb-9yxnti/index.html",
+    "main.fc5c2c69.css.map": "https://ragunath87.github.io/csb-9yxnti/static/css/main.fc5c2c69.css.map",
+    "main.99ec8c72.js.map": "https://ragunath87.github.io/csb-9yxnti/static/js/main.99ec8c72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.99ec8c72.js"
+  ]
+}
